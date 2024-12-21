@@ -14,7 +14,7 @@ export function ProtectedContent({ onLogout }: { onLogout: () => void }) {
         width={400} // Width of the image
         height={290} // Height of the image
       />
-        <h1 className="text-5xl font-bold mb-6 text-gray-900">Daily alignment to <br/>crush your goals {process.env.NEXT_PUBLIC_APP_FORM_IFRAME}</h1>
+        <h1 className="text-5xl font-bold mb-6 text-gray-900">Daily alignment to <br/>crush your goals </h1>
       </div>
       </div>
        <iframe 
